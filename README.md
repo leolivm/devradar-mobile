@@ -21,7 +21,7 @@
 
 ## :cold_sweat: Desafios encontrados:
 
-- API de mapas do React Native e suas dependências
+- API de mapas do React Native e suas dependências.
 
 ## :computer: Tecnologias utilizadas:
 
