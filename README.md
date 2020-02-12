@@ -34,4 +34,4 @@
 1. Clone este repositorio.
 2. `cd devradar-mobile`<br />
 3. `yarn` para instalar as dependências.<br />
-4. `react-native run-android` para testar em seu aparelho.<br />
+4. `expo start` para testar em seu aparelho.<br />
