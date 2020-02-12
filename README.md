@@ -32,6 +32,6 @@
 ## :dvd: Instalação:
 
 1. Clone este repositorio.
-2. `cd mobile`<br />
+2. `cd devradar-mobile`<br />
 3. `yarn` para instalar as dependências.<br />
 4. `react-native run-android` para testar em seu aparelho.<br />
